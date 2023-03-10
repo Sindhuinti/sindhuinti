@@ -1,15 +1,15 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sindhu
 
- ## 🙋‍♂️ About Me
+ ## 🙋🏻‍♀️ About Me
 
 
 - ☸️ I’m currently learning **Devops**
  
 - 🕸️ I'm confident in Full-stack web development.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🤝 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available  here [Click me!](https://github.com/Sindhuinti?tab=repositories)
+- 💻 All of my projects are available  here [Click me!](https://github.com/Sindhuinti?tab=repositories)
 
 - 📫 How to reach me **iamsindhuinti23@gmail.com**
 
