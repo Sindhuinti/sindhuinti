@@ -22,8 +22,8 @@
 ### <h1 align="center"> My Skills
 
 ### Languages :
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="c" width="30px" height="30px"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c" width="30px" height="30px"/>
+<a><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="c" width="30px" height="30px"/></a>
+<a><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c" width="30px" height="30px"/></a>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="c" width="30px" height="30px"/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="c" width="30px" height="30px"/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="c" width="30px" height="30px"/>
