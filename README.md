@@ -46,6 +46,7 @@
   <a><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" width="30px" height="30px"/></a>
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30px" height="30px"/></a>
 <a>   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/></a>
+ <a><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="30" height="30" alt="github-actions"/></a>
 <a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <a><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
