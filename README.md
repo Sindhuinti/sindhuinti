@@ -19,9 +19,9 @@
 <a href="mailto:iamsindhuinti23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </h1>
 
-### <h1 align="center"> My Skills</h1>
-### Languages :
+### <h1 align="center"> My Skills
 
+### Languages :
 <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="c" width="30px" height="30px"/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c" width="30px" height="30px"/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="c" width="30px" height="30px"/>
@@ -54,6 +54,12 @@
 ### Cloud technologies :
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
+
+
+</h1>
+
+
+
 
 
 ### <h1 align="center"> Certifications</h1>
