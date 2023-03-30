@@ -53,7 +53,7 @@
  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ### Cloud technologies :
-<a><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/></a>
+<a><img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="30"/></a>
 <a><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/></a>
 
 </h1>
