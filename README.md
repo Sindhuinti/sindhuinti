@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I am a DevOps and web developer. I like building CLI and automation tools.
+I am a DevOps and web developer. I love building CLI and automation tools.
   
 </div>
 
